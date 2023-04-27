@@ -11,7 +11,7 @@ Twitter `@BrendonGames69` <img src="https://upload.wikimedia.org/wikipedia/sco/t
 
 Reddit `u/BrendonGamesReddit` <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="16" height="16">
 
-Minecraft `BrendonGames` <img src="https://github.com/BrendonGames/BrendonGames/blob/main/BrendonGames.png?raw=true" width="16" height="15">
+Minecraft `BrendonGames` <img src="https://github.com/BrendonGames/BrendonGames/blob/main/BrendonGames.png?raw=true" width="18" height="17">
 
 # Credits
 
