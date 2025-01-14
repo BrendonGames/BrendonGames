@@ -9,4 +9,4 @@ Twitter <a href="https://x.com/BrendonGames69" target="_blank">`@BrendonGames69`
 
 Reddit <a href="https://www.reddit.com/user/BrendonGamesReddit/" target="_blank">`u/BrendonGamesReddit`</a> <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/RedditSnoo.png" width="auto" height="20">
 
-Minecraft <a href="https://www.xbox.com/en-GB/play/user/BrendonGames660" target="_blank">`BrendonGames` <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/BrendonGames.png" width="auto" height="18">
+Minecraft <a href="https://www.xbox.com/en-GB/play/user/BrendonGames660" target="_blank">`BrendonGames`</a> <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/BrendonGames.png" width="auto" height="18">
