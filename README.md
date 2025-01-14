@@ -3,10 +3,10 @@
 I'm a beginner with coding and still learning all kinds of code. Been working on a few personal project that I haven't made public, but plan on doing so in the future (probably)
 
 # Socials
-Discord `BrendonGames` <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" height="15">
+Discord <a href="https://discord.com/users/457458285340262411" target="_blank">`BrendonGames`</a> <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/DiscordLogo.png" width="20" height="15">
 
-Twitter `@BrendonGames69` <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" width="20" height="15">
+Twitter <a href="https://x.com/BrendonGames69" target="_blank">`@BrendonGames69`</a> <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/TwitterLogo.png" width="20" height="15">
 
-Reddit `u/BrendonGamesReddit` <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="auto" height="16">
+Reddit <a href="https://www.reddit.com/user/BrendonGamesReddit/" target="_blank">`u/BrendonGamesReddit`</a> <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/RedditSnoo.png" width="auto" height="20">
 
-Minecraft `BrendonGames` <img src="https://github.com/BrendonGames/BrendonGames/blob/main/BrendonGames.png?raw=true" width="18" height="17">
+Minecraft <a href="https://www.xbox.com/en-GB/play/user/BrendonGames660" target="_blank">`BrendonGames` <img src="https://raw.githubusercontent.com/BrendonGames/BrendonGames/refs/heads/main/BrendonGames.png" width="auto" height="18">
